@@ -1,0 +1,52 @@
+{"liste": [
+        {
+        "nom": "Ashrem",
+        "date": [        {
+            "jour": 1,
+            "mois": "Xiretsa�Geliva",
+            "annee": 1375
+        }],
+        "lieuDeNaissance": "En Siana",
+        "description": "Ceci est de test pour voir si les r�f�rence apparaisse donc mettons des noms random.\n\nJohn Ashrem Morgen Ted Galthas"
+    },
+        {
+        "nom": "Galthas",
+        "date": [        {
+            "jour": 20,
+            "mois": "Marmo�Geliva",
+            "annee": 1111
+        }],
+        "lieuDeNaissance": "un lieu quelquonque",
+        "description": "Ashrem Ted"
+    },
+        {
+        "nom": "John",
+        "date": [        {
+            "jour": 20,
+            "mois": "Yliak�Geliva",
+            "annee": 1200
+        }],
+        "lieuDeNaissance": "un lieu quelquonque",
+        "description": "John Ashrem Morgen"
+    },
+        {
+        "nom": "Morgen",
+        "date": [        {
+            "jour": 20,
+            "mois": "Oulor�Geliva",
+            "annee": 1500
+        }],
+        "lieuDeNaissance": "un lieu quelquonque",
+        "description": "John Galthas"
+    },
+        {
+        "nom": "Ted",
+        "date": [        {
+            "jour": 10,
+            "mois": "Xiretsa�Geliva",
+            "annee": 1400
+        }],
+        "lieuDeNaissance": "un lieu quelquonque",
+        "description": "Galthas Morgen"
+    }
+]}
